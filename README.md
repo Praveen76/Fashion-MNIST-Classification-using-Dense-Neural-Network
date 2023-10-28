@@ -18,3 +18,7 @@ This is a Classification problem. You can import dataset from the [following lin
 * How to calculate total number of parameters?
 * How to plot total number of parameters?
 * How to use callbacks for EarlyStopping to save model's weights at different checkpoints or epochs?
+
+
+# **About Me:**
+I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
